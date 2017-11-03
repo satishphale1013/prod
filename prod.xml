@@ -84,7 +84,7 @@
             <enabled>true</enabled>
             <bindings>
                 <binding name="">
-                    <machine>%%Process Archive.par-machine%%</machine>
+                    <machine>sphale-t420</machine>
                     <product>
                         <type>bwengine</type>
                         <version></version>
