@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<t:tibco xmlns:t="urn:tibco.training.schemas.xsltexcercise.tibco" xmlns:emp="urn:tibco.training.schemas.xsltexcercise.employee" xmlns:cntr="urn:tibco.training.schemas.xsltexcercise.contract" >
+	<emp:employee>
+		<emp:id>123</emp:id>
+		<emp:name>Ratnesh Gowardhan</emp:name>
+		<emp:age>31</emp:age>
+		<emp:qualification>B.Tech,2006</emp:qualification>
+		<emp:specialization>BW</emp:specialization>
+		<emp:specialization>BPM</emp:specialization>
+		<emp:location>Pune</emp:location>
+		<emp:experience>9.5</emp:experience>
+		<!--Years-->
+		<emp:role>Consultant</emp:role>
+	</emp:employee>
+	<cntr:contractor>
+		<emp:id>C-11092</emp:id>
+		<emp:name>Ratnesh Gowardhan</emp:name>
+		<emp:age>30</emp:age>
+		<emp:qualification>B.Tech,2009</emp:qualification>
+		<emp:qualification>M.Tech,2011</emp:qualification>
+		<emp:specialization>BE</emp:specialization>
+		<emp:location>Hyderabad</emp:location>
+		<emp:experience>6</emp:experience>
+		<!--Years-->
+		<emp:role>Consultant</emp:role>
+		<emp:contractingCompany>AtoZ Software</emp:contractingCompany>
+	</cntr:contractor>
+	<emp:employee>
+		<emp:id>623</emp:id>
+		<emp:name>Rahulraj</emp:name>
+		<emp:age>23</emp:age>
+		<emp:qualification>B.E.,2014</emp:qualification>
+		<emp:specialization>Java</emp:specialization>
+		<emp:location>Hyderabad</emp:location>
+		<emp:experience>1</emp:experience>
+		<emp:role>Associate Consultant</emp:role>
+	</emp:employee>
+</t:tibco>

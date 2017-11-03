@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tibco>
+	<employee>
+		<id>123</id>
+		<name>Ratnesh Gowardhan</name>
+		<age>31</age>
+		<qualification>B.Tech,2006</qualification>
+		<specialization>BW</specialization>
+		<specialization>BPM</specialization>
+		<location>Pune</location>
+		<experience>9.5</experience>
+		<!--Years-->
+		<role>Consultant</role>
+	</employee>
+	<contractor>
+		<id>C-11092</id>
+		<name>Ratnesh Gowardhan</name>
+		<age>30</age>
+		<qualification>B.Tech,2009</qualification>
+		<qualification>M.Tech,2011</qualification>
+		<specialization>BE</specialization>
+		<location>Hyderabad</location>
+		<experience>6</experience>
+		<!--Years-->
+		<role>Consultant</role>
+		<contractingCompany>AtoZ Software</contractingCompany>
+	</contractor>
+	<employee>
+		<id>623</id>
+		<name>Rahulraj</name>
+		<age>23</age>
+		<qualification>B.E.,2014</qualification>
+		<specialization>Java</specialization>
+		<location>Hyderabad</location>
+		<experience>1</experience>
+		<role>Associate Consultant</role>
+	</employee>
+</tibco>

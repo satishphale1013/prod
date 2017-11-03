@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carModels>
+	<carModel name="Brio(Petrol)">
+		<manufacturer>Honda</manufacturer>
+		<variant>EMT</variant>
+		<variant>SMT</variant>
+		<variant>VXO</variant>
+		<variant>VXAT</variant>
+		<engine>
+			<petrolEngine>
+				<displacement>1198</displacement>
+				<maxPower>86.8</maxPower>
+				<maxTorque>109</maxTorque>
+			</petrolEngine>
+		</engine>
+		<length>3610</length>
+		<colors>
+			<color>Blue</color>
+			<color>Red</color>
+			<color>White</color>
+			<color>Black</color>
+		</colors>
+	</carModel>
+	<carModel name="Ertiga(Petrol)">
+		<manufacturer>Maruti</manufacturer>
+		<variant>LXi</variant>
+		<variant>VXi</variant>
+		<variant>VXi+</variant>
+		<variant>ZXi</variant>
+		<engine>
+			<petrolEngine>
+				<displacement>1248</displacement>
+				<maxPower>93.7</maxPower>
+				<maxTorque>130</maxTorque>
+			</petrolEngine>
+		</engine>
+		<length>4265</length>
+		<colors>
+			<color>White</color>
+			<color>Silver</color>
+			<color>Red</color>
+		</colors>
+	</carModel>
+	<carModel name="Ertiga(Diesel)">
+		<manufacturer>Maruti</manufacturer>
+		<variant>LDi</variant>
+		<variant>VDi</variant>
+		<variant>VDi+</variant>
+		<variant>ZDi</variant>
+		<engine>
+			<dieselEngine>
+				<displacement>1248</displacement>
+				<maxPower>88.8</maxPower>
+				<maxTorque>200</maxTorque>
+			</dieselEngine>
+		</engine>
+		<length>4265</length>
+		<colors>
+			<color>White</color>
+			<color>Silver</color>
+			<color>Red</color>
+		</colors>
+	</carModel>
+</carModels>
+
+
